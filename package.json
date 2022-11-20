@@ -1,0 +1,15 @@
+{
+  "name": "project-templates",
+  "version": "1.0.0",
+  "description": "CLI tool for generating projects for team use cases",
+  "main": "src/main.ts",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "9.1.4",
+    "arg": "5.0.2"
+  },
+  "devDependencies": {
+    "typescript": "4.9.3",
+    "@types/node": "18.11.9"
+  }
+}
